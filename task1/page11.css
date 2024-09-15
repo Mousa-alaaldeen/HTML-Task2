@@ -1,0 +1,15 @@
+input{
+    height: 50px;
+    width: 97%;
+    margin: 10px;
+    text-align: start;
+    align-items: start;
+    justify-items: start;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}

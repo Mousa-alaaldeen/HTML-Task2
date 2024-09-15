@@ -1,3 +1,23 @@
 .p-red{
     color: red;
 }
+.p-green{
+    color: green;
+}
+.p-blue{
+    color: blue;
+}
+.p-yellow{
+    color: yellow;
+}
+.pink{
+    font-size: 10;
+    color: pink;
+}
+.size-3rem{
+    font-size: 3rem;
+}
+.background-image{
+    background-image:url("../vv.jfif");
+    background-size: 100%;
+}
