@@ -1,0 +1,21 @@
+flex{
+    color: rgb(109, 72, 3);
+}
+.dev1{
+  border: 2px rgb(190, 154, 87) ;
+}
+.dev2{
+    height: 200px; width: 400px; border: 8px solid orange;
+    margin: 5px 10px;
+}
+.div3{
+
+    background-color: yellow;
+    overflow-y: scroll;
+  
+    width: 400px;
+    
+    border: 10px solid ;
+    padding: 15px;
+      border-image:url(../../vvv.jfif) 30 round;
+}
