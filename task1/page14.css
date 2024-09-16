@@ -1,0 +1,5 @@
+body{
+    background-image: url("../../vv.jfif"), url("../../vvv.jfif");
+    background-repeat: repeat-y, repeat-x;
+    
+}
