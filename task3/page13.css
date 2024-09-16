@@ -1,0 +1,82 @@
+.nav {
+    background-color: gray;
+}
+
+.ol {
+    display: flex;
+    margin: 0px;
+    list-style: none;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+    /* border-radius: 20px black; */ /* This line seems to be incorrect */
+}
+
+.image {
+   margin: 0px;
+    background-image: url("../../kk.jpg");
+    background-size: cover; /* Ensures the image covers the div */
+    height: 600px;
+    width: 100%px;
+    justify-content: center;
+    
+    color: red;
+font-size: 40px;
+}
+
+.ima{
+     background-image: url("../../im.jpg");
+     height: 200px;
+     width: 200px;
+
+     
+
+ 
+ }
+ .mm{
+    display: flex;
+    justify-content: center;
+ }
+ .mmm{
+    
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+
+   
+ }
+.a2{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 200px;
+    background-color: yellow;
+
+
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+.ii{
+    height: 200px;
+    
+}
+.p2{
+    display: flex;
+    justify-content: center;
+}
+.im{
+  
+  height: 200px;
+  height: 200px;
+  
+    
+}
+.ppp{
+    border-radius: 30px;
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 2px 2px red;
+}
