@@ -1,0 +1,50 @@
+div{
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    /* background-color: aqua; */
+}
+.box1 {
+    position:relative;
+    /* position: relative; */
+    z-index: -9;
+    border: solid;
+    /* height: 100px;
+    margin: 50px; */
+    top: 10px;
+    padding: 20px;
+    
+    
+  }
+  
+  .box2 {
+    position: fixed;
+    z-index: 3;
+    background: blue;
+    width: 60%;
+    top: 200px;
+    /* top: -25px; */
+    margin: 0px 10px;
+    /* bottom: -10px; */
+    /* right: 10px; */
+    /* left: 65%;
+    top: -25px;
+    height: 120px;
+    opacity: 0.9; */
+  }
+  
+  .box3 {
+ display: flex;
+ /* justify-content: center;
+ align-items: center; */
+    z-index: 2;
+    background: green;
+    width: 300px;
+    /* top: 2px; */
+    /* width: 70%; */
+/* right: -19px; */
+
+
+    left: 500px;
+    /* top: -100px; */
+  }
